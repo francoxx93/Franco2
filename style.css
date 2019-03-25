@@ -1,0 +1,31 @@
+div i.iconsBig {
+    font-size: 3rem;
+}
+
+div i.iconsMid {
+    font-size: 2rem;
+}
+
+#logox {
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    text-shadow: 2px 3px 1px #000000, 3px 4px 3px rgba(0, 0, 0, 0.5);
+}
+
+.modal-open .container-fluid, .modal-open .container {
+    filter: blur(4px) grayscale(60%);
+    -webkit-filter: blur(4px) grayscale(60%);
+}
+
+.modal-open .carousel, .modal-open .carousel {
+    filter: blur(4px) grayscale(60%);
+    -webkit-filter: blur(4px) grayscale(60%);
+}
+
+.bg-dark#navegacion {
+    transition: all 2s ease;
+}
+
+.border-3 {
+    border-width:3px;
+}
